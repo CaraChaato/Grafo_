@@ -1,0 +1,167 @@
+0 -6.43 -36.63 RN Acari
+1 -5.57 -36.90 RN Açu
+2 -5.49 -36.50 RN Afonso Bezerra
+3 -6.20 -38.29 RN Água Nova
+4 -6.41 -38.01 RN Alexandria
+5 -6.15 -37.76 RN Almino Afonso
+6 -5.28 -36.76 RN Alto do Rodrigues
+7 -5.66 -36.60 RN Angicos
+8 -6.21 -37.90 RN Antônio Martins
+9 -5.66 -37.79 RN Apodi
+10 -4.95 -37.13 RN Areia Branca
+11 -6.19 -35.15 RN Arês
+12 -5.86 -37.31 RN Augusto Severo
+13 -6.36 -35.00 RN Baía Formosa
+14 -5.07 -37.61 RN Baraúna
+15 -5.95 -35.92 RN Barcelona
+16 -5.69 -35.81 RN Bento Fernandes
+17 -5.98 -36.41 RN Bodó
+18 -5.98 -35.58 RN Bom Jesus
+19 -6.19 -35.35 RN Brejinho
+20 -5.07 -36.06 RN Caiçara do Norte
+21 -5.76 -35.99 RN Caiçara do Rio do Vento
+22 -6.45 -37.09 RN Caicó
+23 -6.24 -36.18 RN Campo Redondo
+24 -6.38 -35.12 RN Canguaretama
+25 -5.79 -37.55 RN Caraúbas
+26 -6.55 -36.59 RN Carnaúba dos Dantas
+27 -5.34 -36.83 RN Carnaubais
+28 -5.63 -35.42 RN Ceará-Mirim
+29 -6.04 -36.34 RN Cerro Corá
+30 -6.38 -36.21 RN Coronel Ezequiel
+31 -6.26 -38.44 RN Coronel João Pessoa
+32 -6.41 -36.79 RN Cruzeta
+33 -6.26 -36.51 RN Currais Novos
+34 -6.09 -38.37 RN Doutor Severiano
+35 -5.91 -35.26 RN Parnamirim
+36 -6.11 -38.30 RN Encanto
+37 -6.94 -36.71 RN Equador
+38 -6.33 -35.30 RN Espírito Santo
+39 -5.70 -35.30 RN Extremoz
+40 -5.60 -37.68 RN Felipe Guerra
+41 -5.69 -36.53 RN Fernando Pedroza
+42 -6.12 -36.81 RN Florânia
+43 -6.07 -38.11 RN Francisco Dantas
+44 -6.15 -37.84 RN Frutuoso Gomes
+45 -5.09 -36.27 RN Galinhos
+46 -6.26 -35.20 RN Goianinha
+47 -5.45 -37.52 RN Governador Dix-Sept Rosado
+48 -4.98 -37.15 RN Grossos
+49 -5.10 -36.31 RN Guamaré
+50 -5.82 -35.55 RN Ielmo Marinho
+51 -5.49 -36.85 RN Ipanguaçu
+52 -6.81 -37.19 RN Ipueira
+53 -5.64 -36.87 RN Itajá
+54 -5.84 -37.99 RN Itaú
+55 -6.42 -36.20 RN Jaçanã
+56 -5.35 -36.12 RN Jandaíra
+57 -6.01 -37.40 RN Janduís
+58 -6.15 -35.60 RN Januário Cicco
+59 -6.46 -35.94 RN Japi
+60 -5.65 -35.96 RN Jardim de Angicos
+61 -6.37 -37.35 RN Jardim de Piranhas
+62 -6.58 -36.77 RN Jardim do Seridó
+63 -5.53 -35.81 RN João Câmara
+64 -6.27 -37.79 RN João Dias
+65 -6.31 -38.28 RN José da Penha
+66 -6.03 -37.02 RN Jucurutu
+67 -6.27 -35.34 RN Jundiá
+68 -6.39 -35.59 RN Lagoa d`Anta
+69 -6.14 -35.43 RN Lagoa de Pedras
+70 -6.00 -35.87 RN Lagoa de Velhos
+71 -6.09 -36.46 RN Lagoa Nova
+72 -6.13 -35.49 RN Lagoa Salgada
+73 -5.69 -36.24 RN Lajes
+74 -6.15 -36.11 RN Lajes Pintadas
+75 -6.11 -37.81 RN Lucrécia
+76 -6.41 -38.38 RN Luís Gomes
+77 -5.85 -35.35 RN Macaíba
+78 -5.11 -36.63 RN Macau
+79 -6.40 -38.32 RN Major Sales
+80 -6.29 -38.16 RN Marcelino Vieira
+81 -6.08 -37.91 RN Martins
+82 -5.51 -35.26 RN Maxaranguape
+83 -6.07 -37.51 RN Messias Targino
+84 -6.48 -35.28 RN Montanhas
+85 -6.06 -35.33 RN Monte Alegre
+86 -6.44 -35.78 RN Monte das Gameleiras
+87 -5.18 -37.34 RN Mossoró
+88 -5.79 -35.20 RN Natal
+89 -6.09 -35.20 RN Nísia Floresta
+90 -6.47 -35.43 RN Nova Cruz
+91 -5.95 -37.70 RN Olho-d`Água do Borges
+92 -6.70 -36.94 RN Ouro Branco
+93 -6.48 -38.31 RN Paraná
+94 -5.77 -37.10 RN Paraú
+95 -5.22 -35.83 RN Parazinho
+96 -6.68 -36.65 RN Parelhas
+97 -5.27 -35.38 RN Rio do Fogo
+98 -6.43 -35.64 RN Passa e Fica
+99 -6.27 -35.37 RN Passagem
+100 -6.11 -37.63 RN Patu
+101 -5.84 -35.69 RN Santa Maria
+102 -6.11 -38.20 RN Pau dos Ferros
+103 -5.15 -35.87 RN Pedra Grande
+104 -5.58 -36.10 RN Pedra Preta
+105 -5.52 -36.38 RN Pedro Avelino
+106 -6.43 -35.22 RN Pedro Velho
+107 -5.26 -36.72 RN Pendências
+108 -6.26 -38.04 RN Pilões
+109 -5.62 -35.66 RN Poço Branco
+110 -6.02 -37.98 RN Portalegre
+111 -5.06 -36.78 RN Porto do Mangue
+112 -6.10 -35.71 RN Presidente Juscelino
+113 -5.46 -35.55 RN Pureza
+114 -6.19 -38.22 RN Rafael Fernandes
+115 -6.07 -37.71 RN Rafael Godeiro
+116 -5.93 -37.94 RN Riacho da Cruz
+117 -6.26 -38.31 RN Riacho de Santana
+118 -5.81 -35.82 RN Riachuelo
+119 -5.78 -38.06 RN Rodolfo Fernandes
+120 -4.83 -37.25 RN Tibau
+121 -5.88 -35.93 RN Ruy Barbosa
+122 -6.22 -36.02 RN Santa Cruz
+123 -5.95 -36.65 RN Santana do Matos
+124 -6.77 -36.73 RN Santana do Seridó
+125 -6.31 -35.47 RN Santo Antônio
+126 -5.09 -35.95 RN São Bento do Norte
+127 -6.34 -36.08 RN São Bento do Trairí
+128 -6.37 -37.18 RN São Fernando
+129 -5.97 -38.15 RN São Francisco do Oeste
+130 -5.79 -35.32 RN São Gonçalo do Amarante
+131 -6.71 -37.20 RN São João do Sabugi
+132 -6.07 -35.23 RN São José de Mipibu
+133 -6.31 -35.71 RN São José do Campestre
+134 -6.44 -36.87 RN São José do Seridó
+135 -6.21 -38.49 RN São Miguel
+136 -5.12 -35.63 RN São Miguel do Gostoso
+137 -5.89 -35.76 RN São Paulo do Potengi
+138 -5.89 -35.63 RN São Pedro
+139 -5.79 -36.92 RN São Rafael
+140 -5.97 -36.07 RN São Tomé
+141 -6.21 -36.68 RN São Vicente
+142 -6.03 -35.69 RN Senador Elói de Souza
+143 -6.16 -35.12 RN Senador Georgino Avelino
+144 -6.41 -35.70 RN Serra de São Bento
+145 -5.17 -37.02 RN Serra do Mel
+146 -6.66 -37.39 RN Serra Negra do Norte
+147 -6.27 -35.49 RN Serrinha
+148 -6.11 -37.95 RN Serrinha dos Pintos
+149 -5.77 -37.95 RN Severiano Melo
+150 -6.10 -35.91 RN Sítio Novo
+151 -5.92 -38.04 RN Taboleiro Grande
+152 -5.62 -35.59 RN Taipu
+153 -6.19 -35.80 RN Tangará
+154 -6.46 -38.18 RN Tenente Ananias
+155 -6.14 -36.71 RN Tenente Laurentino Cruz
+156 -6.18 -35.09 RN Tibau do Sul
+157 -6.46 -37.27 RN Timbaúba dos Batistas
+158 -5.19 -35.46 RN Touros
+159 -5.86 -37.18 RN Triunfo Potiguar
+160 -5.99 -37.81 RN Umarizal
+161 -5.64 -37.25 RN Upanema
+162 -6.34 -35.37 RN Várzea
+163 -6.32 -38.48 RN Venha-Ver
+164 -6.04 -35.42 RN Vera Cruz
+165 -5.99 -37.94 RN Viçosa
+166 -6.31 -35.07 RN Vila Flor
