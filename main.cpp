@@ -8,38 +8,17 @@
 
 #include "estruturas.cpp"
 #include "grafo.cpp"
+#include "lerarquivos.cpp"
 
-void initDados(Dados &d){
-    for(int i = 0; i < SIZE; i++){
-        d[i] = NULL;
-    }
-}
-
-int lerArquivos(Dados &d){
-    FILE *file = fopen("Cidades.txt","r");
-    
-    int id;
-    latitude la;
-    longitude lo;
-    char* estado;
-    char* cidade;
-    for(int i = 0 ; i < SIZE; i++){
-        fscanf(file, "%d %.2f %.2f %s %s", d[i]->id, d[i]->la, d[i]->lo, d[i]->estado, d[i]->cidade);
-        printf("%d %.2f %.2f %s %s\n", d[i]->id, d[i]->la, d[i]->lo, d[i]->estado, d[i]->cidade);
-    }
-    fclose(file);
-    return 0;
-}
 
 int main() {
-
-    Dados d;
-    initDados(d);
     
-    lerArquivos(d);
+    char *arquivo = (char *)"Cidades.txt";
+    Cidade *Dados = getCidades(arquivo);
 
-    printf("deu certo!\n");
-    //initGrafo(g);
+    printCidades(Dados);
+
+    printf("\nDeu certo!\n");
 
     //Grafo G = criarGrafo("Cidades.txt");
 
