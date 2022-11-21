@@ -5,7 +5,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-#define SIZE 167
+#define SIZE 6
 
 float **criaVizinhos (Cidade *c, float d){
     
@@ -17,6 +17,13 @@ float **criaVizinhos (Cidade *c, float d){
         mat[i] = (float*) malloc(SIZE*sizeof(float));
     }
     
+    for (i = 0; i < SIZE; i++) {
+        for (j = 0; j < SIZE; j++) {
+            mat[i][j] = NULL;
+        }
+    }
+
+
     // Testando se as cidades são vizinhas
     for (i = 0; i < SIZE; i++) {
         for (j = 0; j < i; j++) {
@@ -48,6 +55,15 @@ float **criaVizinhos (Cidade *c, float d){
 
     return mat;
 }
+
+void printMat(float **mat){
+    for (int i = 0; i < SIZE; i++) {
+        printf("\n");
+        for (int j  = 0; j < SIZE; j++) {
+            printf("%.2f\t", mat[i][j]);
+        }
+    }
+} 
 // printCidadeSemVizinhos(G, D);
 // printTodasDistancias(G, D);
 // printCidadeComMaisVizinhos(G, D);

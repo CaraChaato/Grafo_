@@ -4,6 +4,8 @@
 #include "estruturas.cpp" // Estrutura da cidade
 #include "grafo.cpp"
 
+#define MAX 167
+
 /**
  * @brief Lê o arquivo passado como parametro e retorna uma estrutura Cidade
  * @param arquivo 
@@ -14,7 +16,7 @@ Cidade *getCidades(char *arquivo) {
     // Abre o arquivo
     FILE *f = fopen(arquivo, "r");
     // Aloca o espaço para todas as cidades
-    Cidade *dados = (Cidade*) malloc(SIZE*sizeof(Cidade));
+    Cidade *dados = (Cidade*) malloc(MAX*sizeof(Cidade));
 
     // Informa se o arquivo não for aberto
     if (!f) {
@@ -50,7 +52,7 @@ Cidade *getCidades(char *arquivo) {
 }
 
 void printCidades(Cidade *dado){
-    for (int i = 0; i < SIZE; i++) {
+    for (int i = 0; i < MAX; i++) {
         printf(" %d -> %.2f %.2f %s %s \n\n\n", dado[i].id, dado[i].la, dado[i].lo, dado[i].estado, dado[i].cidade);
     }
 }

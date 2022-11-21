@@ -13,7 +13,6 @@
 
 int main() {
 
-    
     char *arquivo = (char *)"Cidades.txt";
     Cidade *Dados = getCidades(arquivo);
 
@@ -22,6 +21,7 @@ int main() {
     float **mat = criaVizinhos(Dados, D[1]);
 
     //printCidades(Dados);
+    printMat(mat);
 
     printf("\nDeu certo!\n");
     
