@@ -12,18 +12,23 @@
 
 
 int main() {
+
     
     char *arquivo = (char *)"Cidades.txt";
     Cidade *Dados = getCidades(arquivo);
 
-    printCidades(Dados);
+    float D[] = {0.05, 0.1, 0.15, 0.20, 0.25};
+
+    float **mat = criaVizinhos(Dados, D[1]);
+
+    //printCidades(Dados);
 
     printf("\nDeu certo!\n");
-
-    //Grafo G = criarGrafo("Cidades.txt");
+    
 
     /*
-    float *D = {0.05, 0.1, 0.15, 0.20, 0.25};
+    
+
     // Quest�o I
     for (size_t i = 0; i < 5; i++) {
         printTodasDistancias(G, D);
@@ -39,4 +44,5 @@ int main() {
         printCidadeSemVizinhos(G, D);
     }
     */
+   return 0;
 }
