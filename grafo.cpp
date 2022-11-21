@@ -4,6 +4,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+#include <math.h>
 
 #define SIZE 6
 
@@ -13,14 +14,12 @@ float **criaVizinhos (Cidade *c, float d){
     int i, j, k = 0;
     // Declarando uma matriz de ponteiros de float
     float **mat = (float**) malloc(SIZE*sizeof(float*));
-    for(i = 0; i < SIZE; i++){
+    for(i = 0; i < SIZE; i++)
         mat[i] = (float*) malloc(SIZE*sizeof(float));
-    }
     
     for (i = 0; i < SIZE; i++) {
-        for (j = 0; j < SIZE; j++) {
+        for (j = 0; j < SIZE; j++) 
             mat[i][j] = NULL;
-        }
     }
 
 
@@ -32,18 +31,15 @@ float **criaVizinhos (Cidade *c, float d){
             }
             else { 
                 // Variáveis para calcular a diferença de distância
-                float difla = c[i].la - c[j].la;
-                float diflo = c[i].lo - c[j].lo;
+                float dif = sqrt(pow(c[i].la-c[j].la,2)+pow(c[i].lo-c[j].lo,2));
                 // Se a diferença de latitude for menor q a diferença recebida (d) a diferença de longitude será analizada
-                if (difla <= d) {
-                    // Se a diferença de longitude for menor q a diferença recebida (d) ela será considera vizinha 
-                    if(diflo <= d){
+                if (dif <= d) {
                         // A posição da matriz relacionada as cidades vão reseber a diferença de distância entre elas
-                        mat[i][j] = (c[i].la - c[j].la) + (c[i].lo - c[j].lo);
-                        mat[j][i] = (c[i].la - c[j].la) + (c[i].lo - c[j].lo);
+                        mat[i][j] = dif;
+                        mat[j][i] = dif;
                     }
-                }
-                else{
+
+                else {
                     // Caso as cidades n sejam vizinhas
                     mat[i][j] = -1;
                     mat[j][i] = -1;
@@ -51,9 +47,8 @@ float **criaVizinhos (Cidade *c, float d){
 
             }
         }
-    }
-
     return mat;
+}
 }
 
 void printMat(float **mat){
