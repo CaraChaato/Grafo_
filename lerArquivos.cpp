@@ -1,7 +1,7 @@
 #include <stdio.h> // Ler e Inserir dados
 #include <stdlib.h> // Operações de prompt
 #include <string> // Auxiliar com caracteres
-#include "estruturas.cpp" // Estrutura da cidade
+#include "estrutura.cpp" // Estrutura da cidade
 #include "grafo.cpp"
 
 #define MAX 167

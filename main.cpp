@@ -6,9 +6,9 @@
  * O Arquivo estrutura.cpp inclui todas as fun��es que definem o Grafo e ser�o utilizadas neste arquivo main.cpp.
  */
 
-#include "estruturas.cpp"
+#include "estrutura.cpp"
 #include "grafo.cpp"
-#include "lerarquivos.cpp"
+#include "lerArquivos.cpp"
 
 
 int main() {
