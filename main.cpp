@@ -18,7 +18,7 @@ int main() {
 
     float D[] = {0.05, 0.1, 0.15, 0.20, 0.25};
 
-    float **mat = criaVizinhos(Dados, D[1]);
+    float **mat = criaVizinhos(Dados, 1.5);
 
     //printCidades(Dados);
     printMat(mat);
