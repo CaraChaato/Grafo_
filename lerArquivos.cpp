@@ -1,9 +1,13 @@
+#ifndef LERARQUIVOS_CPP
+#define LERARQUIVOS_CPP
+
 #include <stdio.h> // Ler e Inserir dados
 #include <stdlib.h> // Operações de prompt
 #include <string> // Auxiliar com caracteres
 #include "estrutura.cpp" // Estrutura da cidade
-#include "grafo.cpp"
+#include "grafo.cpp" // TAD que contém as funções do grafo
 
+// Variável auxiliar para a leitura do arquivo
 #define MAX 167
 
 /**
@@ -39,7 +43,6 @@ Cidade *getCidades(char *arquivo) {
 
         fscanf(f, "%d %f %f %s", &id, &la, &lo, uf);
         fgets(cid, 40 * sizeof(char), f);
-        //printf("%d %s %s", id, uf, cid);
 
         dados[i].id = id; // ID da cidade
         dados[i].estado = uf; // Estado
@@ -51,8 +54,14 @@ Cidade *getCidades(char *arquivo) {
     return dados; // Retorna a estrutura
 }
 
+/**
+ * Função que imprime as cidades lidas no arquivo
+ * @param dado
+*/
 void printCidades(Cidade *dado){
     for (int i = 0; i < MAX; i++) {
         printf(" %d -> %.2f %.2f %s %s \n\n\n", dado[i].id, dado[i].la, dado[i].lo, dado[i].estado, dado[i].cidade);
     }
 }
+
+#endif

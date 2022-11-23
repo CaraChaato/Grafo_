@@ -7,28 +7,40 @@
 #include <math.h>
 #include "estrutura.cpp"
 
+// Variável que limita o tamanho da matriz de adjacência do grafo
 #define SIZE 16
 
+/**
+ * Função que cria a matriz de adjacência do Grafo
+ * @param c
+ * @param d
+ * @return **float
+*/
 float **criaVizinhos (Cidade *c, float d){
     
     // Variáveis Auxiliares
     int i, j;
-    // Declarando uma matriz de ponteiros de float
+
+    // Matriz de Adjacência
     float **mat = (float**) malloc(SIZE*sizeof(float*));
     for(i = 0; i < SIZE; i++)
         mat[i] = (float*) malloc(SIZE*sizeof(float));
-    
 
+    // Limpando os slots da matriz
     for (i = 0; i < SIZE; i++) {
         for (j = 0; j < SIZE; j++) 
             mat[i][j] = 0;
     }
+
     // Testando se as cidades são vizinhas
     for (i = 0; i < SIZE; i++) {
         for (j = 0; j < i+1; j++) {
+
+            // Se a linha for igual a coluna o local vai receber -1 pois a cidade não pode ser vizinha dela mesma
             if (i == j) {
                 mat[i][j] = -1;
             }
+
             else { 
                 // Variáveis para calcular a diferença de distância
                 float dif = sqrt(pow((c[i].la-c[j].la),2)+pow((c[i].lo-c[j].lo),2));
@@ -52,12 +64,18 @@ float **criaVizinhos (Cidade *c, float d){
     return mat;
 }
 
+/**
+ * Função que imprime a cidade com a maior quantidade de vizinhos de acordo com a matriz
+ * @param G
+ * @param c
+*/
 void printMaisVizinhos(float **G, Cidade *c){
 
     size_t tmp = 0, highest[2] = {0,0};
 
     for (size_t i = 0; i < SIZE; i++) { // Linhas da matriz
         for (size_t y = 0; y < SIZE; y++) // Colunas da matriz; Percorre as colunas de acordo com as linhas
+
             tmp = (G[i][y]>0) ? tmp+1: tmp; // Armazena na var tmp a quantidade de vizinhas presente nessa linha    
 
         if(tmp>highest[1]){ // Analisa se o total de vizinhaças desse iterando é maior que o da cidade atual
@@ -70,7 +88,12 @@ void printMaisVizinhos(float **G, Cidade *c){
     // Por fim, dita qual foi a cidade com maior quantidade de vizinhaças de acordo com o Cidade *c passado
 }
 
+/**
+ * Imprime a maior distância para que todas as cidades sejam vizinhas
+ * @param c
+*/
 void printMaiorDistancia(Cidade *c) {
+    // Variáveis Auxiliares
     float dif, maior = 0;
     for (int i = 0; i < SIZE; i++) {
         for (int j = 0; j < SIZE; j++) {

@@ -24,6 +24,6 @@ int main() {
     printSemVizinhos(mat,Dados);// Cidade sem vizinhos, questão 3.
     printf("\nQuestão 04:");
     printMaiorDistancia(Dados);// Maior distância, questão 4.
-    
-   return 0;
+
+    return 0;
 }
