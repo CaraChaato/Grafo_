@@ -22,29 +22,9 @@ int main() {
 
     //printMat(mat);
     
-    printMaisVizinhos(mat,Dados);
-    printMaiorDistancia(Dados);
-    printSemVizinhos(mat,Dados);
-    // printf("\nDeu certo!\n");
+    printMaisVizinhos(mat,Dados); //Cidade com mais vizinhos, questão 2.
+    printMaiorDistancia(Dados);// Maior distância, questão 4
+    printSemVizinhos(mat,Dados);// Cidade sem vizinhos, questão 3.
     
-
-    /*
-    
-
-    // Quest�o I
-    for (size_t i = 0; i < 5; i++) {
-        printTodasDistancias(G, D);
-    }
-
-    //Quest�o II
-    for (size_t i = 0; i < 5; i++) {
-        printCidadeComMaisVizinhos(G, D);
-    }
-
-    //Quest�o III
-    for (size_t i = 0; i < 5; i++) {
-        printCidadeSemVizinhos(G, D);
-    }
-    */
    return 0;
 }
