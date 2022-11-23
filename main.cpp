@@ -18,14 +18,13 @@ int main() {
 
     float D[] = {0.05, 0.1, 0.15, 0.20, 0.25, 1, 1.5, 2};
 
-    float **mat = criaVizinhos(Dados, D[6]);
+    float **mat = criaVizinhos(Dados, D[4]);
 
     //printMat(mat);
     
     printMaisVizinhos(mat,Dados);
-
     printMaiorDistancia(Dados);
-    
+    printSemVizinhos(mat,Dados);
     // printf("\nDeu certo!\n");
     
 

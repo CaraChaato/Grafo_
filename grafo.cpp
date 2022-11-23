@@ -66,7 +66,7 @@ void printMaisVizinhos(float **G, Cidade *c){
         }
             tmp*=0; // Zera a var tmp para recomeçar a contagem de vizinhaças em uma nova cidade
     }
-    printf("\n\nA cidade com mais vizinhos(%lu vizinhos): %s\n",highest[1],c[highest[0]].cidade);
+    printf("\n\nA cidade com mais vizinhos(%lu vizinhos): %s",highest[1],c[highest[0]].cidade);
     // Por fim, dita qual foi a cidade com maior quantidade de vizinhaças de acordo com o Cidade *c passado
 }
 
@@ -96,5 +96,30 @@ void printMat(float **mat){
 // printCidadeSemVizinhos(G, D);
 // printTodasDistancias(G, D);
 // printCidadeComMaisVizinhos(G, D);
+
+int printSemVizinhos(float **G, Cidade *c){
+
+    size_t tmp = 0, i, y;
+
+    for (i = 0; i < SIZE; i++) { // Linhas da matriz
+        for (y = 0; y < SIZE; y++) // Colunas da matriz; Percorre as colunas de acordo com as linhas   
+
+        if(G[i][y]<0){ // Analisa se o total de vizinhaças desse iterando é maior que o da cidade atual
+            tmp=0;
+        }
+        else{
+            tmp=1;
+            break;
+        }
+    if (tmp==0){
+        printf("\nCidade sem vizinho encontrada: %s", c[i].cidade);
+    }
+    }
+    
+    return 0;
+
+    // Por fim, dita qual foi a cidade com maior quantidade de vizinhaças de acordo com o Cidade *c passado
+}
+
 
 #endif
