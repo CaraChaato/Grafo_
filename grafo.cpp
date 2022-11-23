@@ -7,7 +7,7 @@
 #include <math.h>
 #include "estrutura.cpp"
 
-#define SIZE 167
+#define SIZE 16
 
 float **criaVizinhos (Cidade *c, float d){
     
@@ -85,18 +85,6 @@ void printMaiorDistancia(Cidade *c) {
     printf("\nA maior diferença é %.2f\n", maior);
 }
 
-void printMat(float **mat){
-    for (int i = 0; i < SIZE; i++) {
-        printf("\n ");
-        for (int j  = 0; j < SIZE; j++) {
-            mat[i][j] == -1? printf("%.1f\t", mat[i][j]): printf("%.2f\t", mat[i][j]);
-        }
-    }
-} 
-// printCidadeSemVizinhos(G, D);
-// printTodasDistancias(G, D);
-// printCidadeComMaisVizinhos(G, D);
-
 int printSemVizinhos(float **G, Cidade *c){
 
     size_t tmp = 0, i, y;
@@ -121,5 +109,13 @@ int printSemVizinhos(float **G, Cidade *c){
     // Por fim, dita qual foi a cidade com maior quantidade de vizinhaças de acordo com o Cidade *c passado
 }
 
+void printMat(float **mat){
+    for (int i = 0; i < SIZE; i++) {
+        printf("\n ");
+        for (int j  = 0; j < SIZE; j++) {
+            mat[i][j] == -1? printf("%.1f\t", mat[i][j]): printf("%.2f\t", mat[i][j]);
+        }
+    }
+} 
 
 #endif

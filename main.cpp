@@ -20,10 +20,13 @@ int main() {
 
     float **mat = criaVizinhos(Dados, D[4]);
 
-    //printMat(mat);
-    
+    printf("\nQuestão 01:");
+    printMat(mat);// Matriz de Adjacência de todas as cidades, questão 1.
+    printf("\nQuestão 02:");
     printMaisVizinhos(mat,Dados); //Cidade com mais vizinhos, questão 2.
+    printf("\nQuestão 03:");
     printSemVizinhos(mat,Dados);// Cidade sem vizinhos, questão 3.
+    printf("\nQuestão 04:");
     printMaiorDistancia(Dados);// Maior distância, questão 4.
     
    return 0;
