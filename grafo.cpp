@@ -10,18 +10,21 @@
 #define SIZE 167
 
 void printMaisVizinhos(float **G, Cidade *c){
-  size_t tmp = 0, highest[2] = {0,0};
-  for (size_t i = 0; i < SIZE; i++) { // Linhas da matriz
-    for (size_t y = 0; y < SIZE; y++) // Colunas da matriz; Percorre as colunas de acordo com as linhas
-      tmp = (G[i][y]>0) ? tmp+1: tmp; // Armazena na var tmp a quantidade de vizinhaãs presente nessa linha    
-    // printf("\nQuantidade de vizinhos da cidade %lu: %lu",i+1,tmp);
-    if(tmp>highest[1]){ // Analisa se o total de vizinhaças desse iterando é maior que o da cidade atual
-      highest[0] = i;
-      highest[1] = tmp;
+
+    size_t tmp = 0, highest[2] = {0,0};
+
+    for (size_t i = 0; i < SIZE; i++) { // Linhas da matriz
+        for (size_t y = 0; y < SIZE; y++) // Colunas da matriz; Percorre as colunas de acordo com as linhas
+            tmp = (G[i][y]>0) ? tmp+1: tmp; // Armazena na var tmp a quantidade de vizinhas presente nessa linha    
+
+        if(tmp>highest[1]){ // Analisa se o total de vizinhaças desse iterando é maior que o da cidade atual
+            highest[0] = i;
+            highest[1] = tmp;
+        }
+            tmp*=0; // Zera a var tmp para recomeçar a contagem de vizinhaças em uma nova cidade
     }
-    tmp*=0; // Zera a var tmp para recomeçar a contagem de vizinhaças em uma nova cidade
-  }
-  printf("\nA cidade com mais vizinhos(%lu): %s",highest[1],c[highest[0]].cidade); // Por fim, dita qual foi a cidade com maior quantidade de vizinhaças de acordo com o Cidade *c passado
+    printf("\nA cidade com mais vizinhos(%lu): %s",highest[1],c[highest[0]].cidade);
+    // Por fim, dita qual foi a cidade com maior quantidade de vizinhaças de acordo com o Cidade *c passado
 }
 
 float **criaVizinhos (Cidade *c, float d){
