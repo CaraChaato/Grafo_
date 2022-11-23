@@ -23,8 +23,8 @@ int main() {
     //printMat(mat);
     
     printMaisVizinhos(mat,Dados); //Cidade com mais vizinhos, questão 2.
-    printMaiorDistancia(Dados);// Maior distância, questão 4
     printSemVizinhos(mat,Dados);// Cidade sem vizinhos, questão 3.
+    printMaiorDistancia(Dados);// Maior distância, questão 4.
     
    return 0;
 }
