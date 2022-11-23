@@ -16,14 +16,14 @@ int main() {
     char *arquivo = (char *)"Cidades.txt";
     Cidade *Dados = getCidades(arquivo);
 
-    float D[] = {0.05, 0.1, 0.15, 0.20, 0.25};
+    // float D[] = {0.05, 0.1, 0.15, 0.20, 0.25};
 
     float **mat = criaVizinhos(Dados, 1.5);
 
     //printCidades(Dados);
     printMat(mat);
-
-    printf("\nDeu certo!\n");
+    printMaisVizinhos(mat,Dados);
+    // printf("\nDeu certo!\n");
     
 
     /*
