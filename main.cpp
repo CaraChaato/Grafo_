@@ -1,23 +1,19 @@
+#include "estrutura.cpp"   // TAD para a estrutura das cidade
+#include "grafo.cpp"       // TAD onde acontece a manipulação do grafo
+#include "lerArquivos.cpp" // TAD onde lemos o arquivo e salvamos na esrutura
+
 /**
- * ATEN��O: Este arquivo � apenas um modelo de como pretendo que as respostas finais sejam apresentadas por voc�s.
+ * Função que testa a execução do grafo 
 */
-#include <stdio.h>
-/**
- * O Arquivo estrutura.cpp inclui todas as fun��es que definem o Grafo e ser�o utilizadas neste arquivo main.cpp.
- */
-
-#include "estrutura.cpp"
-#include "grafo.cpp"
-#include "lerArquivos.cpp"
-
-
-int main() {
-
+int main() { 
+    // arquivo que vai servir para ler Cidades.txt 
     char *arquivo = (char *)"Cidades.txt";
     Cidade *Dados = getCidades(arquivo);
 
+    // D é um vetor que armazena as variações de distância
     float D[] = {0.05, 0.1, 0.15, 0.20, 0.25, 1, 1.5, 2};
 
+    // mat é a variável que representa a matriz de adjacência do grafo
     float **mat = criaVizinhos(Dados, D[4]);
 
     printf("\nQuestão 01:");

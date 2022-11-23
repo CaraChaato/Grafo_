@@ -1,7 +1,8 @@
 #ifndef ESTRUTURA_CPP
 #define ESTRUTURA_CPP // ESTRUTURA_CPP é chamado multiplas vezes, para que esse só seja declarado uma vez usamos o #define
 
-typedef float latitude;
+// Variáveis do tipo float usadas para representar a latitude e a longitude 
+typedef float latitude;  
 typedef float longitude;
 
 /**
