@@ -1,9 +1,9 @@
 ## Mestre e Discentes
 
 - Professor: [Kennedy Reurison Lopes](https://github.com/kennedyufersa).<br />
-- Desenvolvedor Principal: [Pedro Vinícius de Andrade Queiroz](https://github.com/CaraChaato).<br />
+- Desenvolvedor Principal: [Pedro Vinícius de Andrade Queiroz](https://github.com/CaraChaato).<br /> (Aka Chato)
 - Desenvolvedor Principal: [Karlos Wiliam da Rocha Marques](https://github.com/AtakyRevolts).<br />
-- Analista Principal e Desenvolvedora: [Lavínia Dantas de Mesquita](https://github.com/LilPuppet).<br />
+- Analista Principal e Desenvolvedora: [Lavínia Dantas de Mesquita](https://github.com/LilPuppet).<br /> (Aka Lava)
 - Desenvolvedora e Boneco de Testes: [Antônia Sabrina Marinho Marcolino](https://github.com/httpsk1b0).<br />
 - Densenvolvedor e Boneco de Testes: [Kauê](Coloque seu link aqui kauê).<br />
 
@@ -46,6 +46,18 @@ Criamos mini inteiros, variaveis do tipo size_t. Uma é uma variável temporári
 Primeiro, criamos dois FORs, eles percorrem toda a matriz: Se o arquivo temporário for menor do que a variável armazenada anteriormente em quesito quantidade de vizinhos, ele refefine a variável temporária para por a cidade usada na comparação.
 
 Ao recorrer das verificações, obtemos a cidade com mais vizinhos e imprimimos ela e a quantidade de vizinhos dela.
+
+## Print Sem Vizinhos
+- Declaração de Variáveis:
+
+Criamos mini inteiros, variaveis do tipo size_t. Uma é uma variável temporária chamada tmp, e os contadores i e y.
+
+- Procedimento Principal:
+
+Primeiro, criamos dois FORs, eles percorrem toda a matriz: Se a função achar um número positivo (um vizinho), ele dá break e passa pra próxima repetição.
+
+Se ele percorrer toda a matriz sem achar nenhum número positivo, ele encontrou uma cidade sem vizinhos, portanto, o nome dela será impresso, várias serão impressas conforme o looping é percorrido.
+
 
 
 
