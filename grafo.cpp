@@ -1,6 +1,7 @@
 #ifndef GRAFO_CPP
 #define GRAFO_CPP   
 
+// Bibliotecas declaradas aqui servem para todo o código
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
