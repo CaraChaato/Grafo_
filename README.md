@@ -58,6 +58,18 @@ Primeiro, criamos dois FORs, eles percorrem toda a matriz: Se a função achar u
 
 Se ele percorrer toda a matriz sem achar nenhum número positivo, ele encontrou uma cidade sem vizinhos, portanto, o nome dela será impresso, várias serão impressas conforme o looping é percorrido.
 
+## Imprimir Para Arquivo
+- Declaração de Variáveis:
+
+Criamos um char chamado tmp, um mini inteiro chamado length e um arquivo chamado file.
+
+- Procedimento Principal:
+Basicamente, usa dois FORs para percorrer as informações e imprime a relação de vizinhos usando a fórmula para poder armazenar no arquivo!
+
+## Print Mat
+
+- Procedimento Principal:
+Ela quem imprime as matrizes criadas, só isso mesmo!
 
 
 
