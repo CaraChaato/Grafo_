@@ -64,11 +64,13 @@ Se ele percorrer toda a matriz sem achar nenhum número positivo, ele encontrou 
 Criamos um char chamado tmp, um mini inteiro chamado length e um arquivo chamado file.
 
 - Procedimento Principal:
+
 Basicamente, usa dois FORs para percorrer as informações e imprime a relação de vizinhos usando a fórmula para poder armazenar no arquivo!
 
 ## Print Mat
 
 - Procedimento Principal:
+
 Ela quem imprime as matrizes criadas, só isso mesmo!
 
 
