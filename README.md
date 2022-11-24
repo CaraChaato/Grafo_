@@ -71,7 +71,7 @@ Basicamente, usa dois FORs para percorrer as informações e imprime a relação
 
 - Procedimento Principal:
 
-Ela quem imprime as matrizes criadas, só isso mesmo!
+Ela quem imprime as matrizes criadas, só isso mesmo!!
 
 
 
