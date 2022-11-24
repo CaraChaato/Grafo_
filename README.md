@@ -15,7 +15,7 @@ em comum, ou não. Mas apesar disto, outras cidades são influenciadas ou influe
 >Sabendo disso, a proposta desse roteiro é definir uma nova medida de vizinhança baseado
 na distância entre as cidades. Nosso princípio será o seguinte: Duas cidades serão consideradas vizinhas (ou influentes) se estiverem a uma distância mínima D entre elas.
 
-Nosso projeto usa da Matriz de Inciência para organizar e relacionar as informações das cidades, suas vizinhas e a distância entre elas, contendo:
+Nosso projeto usa da Matriz de Adjac para organizar e relacionar as informações das cidades, suas vizinhas e a distância entre elas, contendo:
 - Uma função que cria todas as matrizes com base na distância mínima escolhida para que sejam vizinhas
 - Uma função que indica a cidade com mais vizinhos e a quantidade de vizinhos entre sí.
 - Uma função que indica as cidades que não possuem nenhum vizinho.
