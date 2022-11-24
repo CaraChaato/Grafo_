@@ -1,0 +1,334 @@
+[ Acari ]
+	->  Carnaúba dos Dantas	->  Cruzeta	->  Currais Novos	->  Jardim do Seridó	->  São José do Seridó	->  São Vicente
+[ Açu ]
+	->  Carnaubais	->  Ipanguaçu	->  Itajá	->  São Rafael
+[ Afonso Bezerra ]
+	->  Angicos	->  Fernando Pedroza	->  Pedro Avelino
+[ Água Nova ]
+	->  Coronel João Pessoa	->  Doutor Severiano	->  Encanto	->  Francisco Dantas	->  José da Penha	->  Luís Gomes	->  Major Sales	->  Marcelino Vieira	->  Pau dos Ferros	->  Rafael Fernandes	->  Riacho de Santana	->  São Miguel	->  Venha-Ver
+[ Alexandria ]
+	->  Antônio Martins	->  Marcelino Vieira	->  Pilões	->  Tenente Ananias
+[ Almino Afonso ]
+	->  Antônio Martins	->  Frutuoso Gomes	->  João Dias	->  Lucrécia	->  Martins	->  Olho-d`Água do Borges	->  Patu	->  Rafael Godeiro	->  Serrinha dos Pintos	->  Umarizal	->  Viçosa
+[ Alto do Rodrigues ]
+	->  Carnaubais	->  Ipanguaçu	->  Macau	->  Pendências	->  Porto do Mangue
+[ Angicos ]
+	->  Afonso Bezerra	->  Fernando Pedroza
+[ Antônio Martins ]
+	->  Alexandria	->  Almino Afonso	->  Frutuoso Gomes	->  João Dias	->  Lucrécia	->  Martins	->  Pilões	->  Portalegre	->  Rafael Godeiro	->  Serrinha dos Pintos	->  Umarizal	->  Viçosa
+[ Apodi ]
+	->  Felipe Guerra	->  Severiano Melo
+[ Areia Branca ]
+	->  Grossos	->  Tibau	->  Serra do Mel
+[ Arês ]
+	->  Baía Formosa	->  Brejinho	->  Canguaretama	->  Espírito Santo	->  Goianinha	->  Jundiá	->  Monte Alegre	->  Nísia Floresta	->  Passagem	->  Pedro Velho	->  São José de Mipibu	->  Senador Georgino Avelino	->  Tibau do Sul	->  Vila Fl
+[ Augusto Severo ]
+	->  Caraúbas	->  Janduís	->  Paraú	->  Triunfo Potiguar	->  Upanema
+[ Baía Formosa ]
+	->  Arês	->  Canguaretama	->  Goianinha	->  Pedro Velho	->  Senador Georgino Avelino	->  Tibau do Sul	->  Vila Fl
+[ Baraúna ]
+
+[ Barcelona ]
+	->  Caiçara do Rio do Vento	->  Lagoa de Velhos	->  Riachuelo	->  Ruy Barbosa	->  São Paulo do Potengi	->  São Tomé	->  Senador Elói de Souza	->  Sítio Novo
+[ Bento Fernandes ]
+	->  Caiçara do Rio do Vento	->  Jardim de Angicos	->  João Câmara	->  Santa Maria	->  Poço Branco	->  Riachuelo	->  Ruy Barbosa	->  São Paulo do Potengi	->  Taipu
+[ Bodó ]
+	->  Cerro Corá	->  Lagoa Nova	->  Santana do Matos
+[ Bom Jesus ]
+	->  Ielmo Marinho	->  Januário Cicco	->  Lagoa de Pedras	->  Lagoa Salgada	->  Santa Maria	->  Presidente Juscelino	->  São Paulo do Potengi	->  São Pedro	->  Senador Elói de Souza	->  Vera Cruz
+[ Brejinho ]
+	->  Arês	->  Espírito Santo	->  Goianinha	->  Jundiá	->  Lagoa de Pedras	->  Lagoa Salgada	->  Monte Alegre	->  Nísia Floresta	->  Passagem	->  Santo Antônio	->  São José de Mipibu	->  Senador Georgino Avelino	->  Serrinha	->  Várzea	->  Vera Cruz
+[ Caiçara do Norte ]
+	->  Galinhos	->  Pedra Grande	->  São Bento do Norte
+[ Caiçara do Rio do Vento ]
+	->  Barcelona	->  Bento Fernandes	->  Jardim de Angicos	->  Pedra Preta	->  Riachuelo	->  Ruy Barbosa	->  São Tomé
+[ Caicó ]
+	->  São Fernando	->  São José do Seridó	->  Timbaúba dos Batistas
+[ Campo Redondo ]
+	->  Coronel Ezequiel	->  Jaçanã	->  Lajes Pintadas	->  Santa Cruz	->  São Bento do Trairí
+[ Canguaretama ]
+	->  Arês	->  Baía Formosa	->  Espírito Santo	->  Goianinha	->  Jundiá	->  Montanhas	->  Pedro Velho	->  Senador Georgino Avelino	->  Tibau do Sul	->  Vila Fl
+[ Caraúbas ]
+	->  Augusto Severo	->  Felipe Guerra	->  Olho-d`Água do Borges
+[ Carnaúba dos Dantas ]
+	->  Acari	->  Cruzeta	->  Jardim do Seridó	->  Parelhas
+[ Carnaubais ]
+	->  Açu	->  Alto do Rodrigues	->  Ipanguaçu	->  Pendências
+[ Ceará-Mirim ]
+	->  Extremoz	->  Ielmo Marinho	->  Macaíba	->  Maxaranguape	->  Poço Branco	->  Pureza	->  São Gonçalo do Amarante	->  Taipu
+[ Cerro Corá ]
+	->  Bodó	->  Lagoa Nova
+[ Coronel Ezequiel ]
+	->  Campo Redondo	->  Jaçanã	->  Santa Cruz	->  São Bento do Trairí
+[ Coronel João Pessoa ]
+	->  Água Nova	->  Doutor Severiano	->  Encanto	->  José da Penha	->  Luís Gomes	->  Major Sales	->  Rafael Fernandes	->  Riacho de Santana	->  São Miguel	->  Venha-Ver
+[ Cruzeta ]
+	->  Acari	->  Carnaúba dos Dantas	->  Jardim do Seridó	->  São José do Seridó	->  São Vicente
+[ Currais Novos ]
+	->  Acari	->  Lagoa Nova	->  São Vicente	->  Tenente Laurentino Cruz��
+[ Doutor Severiano ]
+	->  Água Nova	->  Coronel João Pessoa	->  Encanto	->  José da Penha	->  Pau dos Ferros	->  Rafael Fernandes	->  Riacho de Santana	->  São Miguel
+[ Parnamirim ]
+	->  Extremoz	->  Macaíba	->  Monte Alegre	->  Natal	->  Nísia Floresta	->  São Gonçalo do Amarante	->  São José de Mipibu	->  Vera Cruz
+[ Encanto ]
+	->  Água Nova	->  Coronel João Pessoa	->  Doutor Severiano	->  Francisco Dantas	->  José da Penha	->  Marcelino Vieira	->  Pau dos Ferros	->  Rafael Fernandes	->  Riacho de Santana	->  São Francisco do Oeste��	->  São Miguel
+[ Equador ]
+	->  Santana do Seridó
+[ Espírito Santo ]
+	->  Arês	->  Brejinho	->  Canguaretama	->  Goianinha	->  Jundiá	->  Lagoa de Pedras	->  Montanhas	->  Nova Cruz	->  Passagem	->  Pedro Velho	->  Santo Antônio	->  Senador Georgino Avelino	->  Serrinha	->  Várzea	->  Vila Fl
+[ Extremoz ]
+	->  Ceará-Mirim	->  Parnamirim	->  Macaíba	->  Maxaranguape	->  Natal	->  São Gonçalo do Amarante
+[ Felipe Guerra ]
+	->  Apodi	->  Caraúbas	->  Governador Dix-Sept Rosado
+[ Fernando Pedroza ]
+	->  Afonso Bezerra	->  Angicos	->  Pedro Avelino
+[ Florânia ]
+	->  Jucurutu	->  Santana do Matos	->  São Vicente	->  Tenente Laurentino Cruz��
+[ Francisco Dantas ]
+	->  Água Nova	->  Encanto	->  Marcelino Vieira	->  Martins	->  Pau dos Ferros	->  Pilões	->  Portalegre	->  Rafael Fernandes	->  Riacho da Cruz	->  São Francisco do Oeste��	->  Serrinha dos Pintos	->  Taboleiro Grande	->  Viçosa
+[ Frutuoso Gomes ]
+	->  Almino Afonso	->  Antônio Martins	->  João Dias	->  Lucrécia	->  Martins	->  Olho-d`Água do Borges	->  Patu	->  Pilões	->  Portalegre	->  Rafael Godeiro	->  Riacho da Cruz	->  Serrinha dos Pintos	->  Umarizal	->  Viçosa
+[ Galinhos ]
+	->  Caiçara do Norte	->  Guamaré
+[ Goianinha ]
+	->  Arês	->  Baía Formosa	->  Brejinho	->  Canguaretama	->  Espírito Santo	->  Jundiá	->  Montanhas	->  Monte Alegre	->  Nísia Floresta	->  Passagem	->  Pedro Velho	->  São José de Mipibu	->  Senador Georgino Avelino	->  Tibau do Sul	->  Várzea	->  Vila Fl
+[ Governador Dix-Sept Rosado ]
+	->  Felipe Guerra
+[ Grossos ]
+	->  Areia Branca	->  Tibau	->  Serra do Mel
+[ Guamaré ]
+	->  Galinhos
+[ Ielmo Marinho ]
+	->  Bom Jesus	->  Ceará-Mirim	->  Macaíba	->  Santa Maria	->  Poço Branco	->  São Gonçalo do Amarante	->  São Paulo do Potengi	->  São Pedro	->  Taipu
+[ Ipanguaçu ]
+	->  Açu	->  Alto do Rodrigues	->  Carnaubais	->  Itajá
+[ Ipueira ]
+	->  São João do Sabugi
+[ Itajá ]
+	->  Açu	->  Ipanguaçu	->  São Rafael
+[ Itaú ]
+	->  Portalegre	->  Riacho da Cruz	->  Rodolfo Fernandes	->  São Francisco do OesteQ�	->  Severiano Melo	->  Taboleiro Grande	->  Umarizal	->  Viçosa
+[ Jaçanã ]
+	->  Campo Redondo	->  Coronel Ezequiel	->  São Bento do Trairí
+[ Jandaíra ]
+	->  Pedra Preta
+[ Janduís ]
+	->  Augusto Severo	->  Messias Targino
+[ Januário Cicco ]
+	->  Bom Jesus	->  Lagoa d`Anta	->  Lagoa de Pedras	->  Lagoa Salgada	->  Presidente Juscelino	->  Santo Antônio	->  São José do Campestre��	->  Senador Elói de Souza	->  Serrinha	->  Tangará	->  Vera Cruz
+[ Japi ]
+	->  Monte das Gameleiras	->  São Bento do Trairí	->  Serra de São Bento
+[ Jardim de Angicos ]
+	->  Bento Fernandes	->  Caiçara do Rio do Vento	->  João Câmara	->  Pedra Preta	->  Riachuelo	->  Ruy Barbosa
+[ Jardim de Piranhas ]
+	->  São Fernando	->  Timbaúba dos Batistas
+[ Jardim do Seridó ]
+	->  Acari	->  Carnaúba dos Dantas	->  Cruzeta	->  Ouro Branco	->  Parelhas	->  Santana do Seridó	->  São José do Seridó
+[ João Câmara ]
+	->  Bento Fernandes	->  Jardim de Angicos	->  Poço Branco	->  Taipu
+[ João Dias ]
+	->  Almino Afonso	->  Antônio Martins	->  Frutuoso Gomes	->  Lucrécia	->  Martins	->  Patu	->  Rafael Godeiro	->  Serrinha dos Pintos
+[ José da Penha ]
+	->  Água Nova	->  Coronel João Pessoa	->  Doutor Severiano	->  Encanto	->  Luís Gomes	->  Major Sales	->  Marcelino Vieira	->  Paraná	->  Pau dos Ferros	->  Pilões	->  Rafael Fernandes	->  Riacho de Santana	->  São Miguel	->  Tenente Ananias	->  Venha-Ver
+[ Jucurutu ]
+	->  Florânia	->  Triunfo Potiguar
+[ Jundiá ]
+	->  Arês	->  Brejinho	->  Canguaretama	->  Espírito Santo	->  Goianinha	->  Lagoa de Pedras	->  Lagoa Salgada	->  Montanhas	->  Monte Alegre	->  Nísia Floresta	->  Nova Cruz	->  Passagem	->  Pedro Velho	->  Santo Antônio	->  São José de Mipibu	->  Senador Georgino Avelino	->  Serrinha	->  Várzea	->  Vera Cruz
+[ Lagoa d`Anta ]
+	->  Januário Cicco	->  Monte das Gameleiras	->  Nova Cruz	->  Passa e Fica	->  Santo Antônio	->  São José do CampestreѪ	->  Serra de São Bento	->  Serrinha	->  Várzea
+[ Lagoa de Pedras ]
+	->  Bom Jesus	->  Brejinho	->  Espírito Santo	->  Januário Cicco	->  Jundiá	->  Lagoa Salgada	->  Monte Alegre	->  Nísia Floresta	->  Passagem	->  Santo Antônio	->  São José de Mipibu	->  Serrinha	->  Várzea	->  Vera Cruz
+[ Lagoa de Velhos ]
+	->  Barcelona	->  Santa Maria	->  Presidente Juscelino	->  Riachuelo	->  Ruy Barbosa	->  São Paulo do Potengi	->  São Tomé	->  Senador Elói de Souza	->  Sítio Novo	->  Tangará
+[ Lagoa Nova ]
+	->  Bodó	->  Cerro Corá	->  Currais Novos	->  Santana do Matos
+[ Lagoa Salgada ]
+	->  Bom Jesus	->  Brejinho	->  Januário Cicco	->  Jundiá	->  Lagoa de Pedras	->  Monte Alegre	->  Passagem	->  Presidente Juscelino	->  Santo Antônio	->  Senador Elói de Souza	->  Serrinha	->  Várzea	->  Vera Cruz
+[ Lajes ]
+	->  Pedra Preta	->  Pedro Avelino
+[ Lajes Pintadas ]
+	->  Campo Redondo	->  Santa Cruz	->  São Bento do Trairí	->  São Tomé	->  Sítio Novo
+[ Lucrécia ]
+	->  Almino Afonso	->  Antônio Martins	->  Frutuoso Gomes	->  João Dias	->  Martins	->  Olho-d`Água do Borges	->  Patu	->  Portalegre	->  Rafael Godeiro	->  Riacho da Cruz	->  Serrinha dos Pintos	->  Umarizal	->  Viçosa
+[ Luís Gomes ]
+	->  Água Nova	->  Coronel João Pessoa	->  José da Penha	->  Major Sales	->  Paraná	->  Riacho de Santana	->  São Miguel	->  Tenente Ananias	->  Venha-Ver
+[ Macaíba ]
+	->  Ceará-Mirim	->  Parnamirim	->  Extremoz	->  Ielmo Marinho	->  Monte Alegre	->  Natal	->  São Gonçalo do Amarante	->  Vera Cruz
+[ Macau ]
+	->  Alto do Rodrigues	->  Pendências	->  Porto do Mangue
+[ Major Sales ]
+	->  Água Nova	->  Coronel João Pessoa	->  José da Penha	->  Luís Gomes	->  Marcelino Vieira	->  Paraná	->  Rafael Fernandes	->  Riacho de Santana	->  Tenente Ananias	->  Venha-Ver
+[ Marcelino Vieira ]
+	->  Água Nova	->  Alexandria	->  Encanto	->  Francisco Dantas	->  José da Penha	->  Major Sales	->  Paraná	->  Pau dos Ferros	->  Pilões	->  Rafael Fernandes	->  Riacho de Santana	->  Tenente Ananias
+[ Martins ]
+	->  Almino Afonso	->  Antônio Martins	->  Francisco Dantas	->  Frutuoso Gomes	->  João Dias	->  Lucrécia	->  Olho-d`Água do Borges	->  Pilões	->  Portalegre	->  Rafael Godeiro	->  Riacho da Cruz	->  Serrinha dos Pintos	->  Taboleiro Grande	->  Umarizal	->  Viçosa
+[ Maxaranguape ]
+	->  Ceará-Mirim	->  Extremoz
+[ Messias Targino ]
+	->  Janduís	->  Olho-d`Água do Borges	->  Patu	->  Rafael Godeiro
+[ Montanhas ]
+	->  Canguaretama	->  Espírito Santo	->  Goianinha	->  Jundiá	->  Nova Cruz	->  Passagem	->  Pedro Velho	->  Várzea
+[ Monte Alegre ]
+	->  Arês	->  Brejinho	->  Parnamirim	->  Goianinha	->  Jundiá	->  Lagoa de Pedras	->  Lagoa Salgada	->  Macaíba	->  Nísia Floresta	->  Passagem	->  São José de Mipibu	->  Senador Georgino Avelino	->  Vera Cruz
+[ Monte das Gameleiras ]
+	->  Japi	->  Lagoa d`Anta	->  Passa e Fica	->  São José do Campestreq�	->  Serra de São Bento
+[ Mossoró ]
+
+[ Natal ]
+	->  Parnamirim	->  Extremoz	->  Macaíba	->  São Gonçalo do Amarante
+[ Nísia Floresta ]
+	->  Arês	->  Brejinho	->  Parnamirim	->  Goianinha	->  Jundiá	->  Lagoa de Pedras	->  Monte Alegre	->  Passagem	->  São José de Mipibu	->  Senador Georgino Avelino	->  Tibau do Sul	->  Vera Cruz
+[ Nova Cruz ]
+	->  Espírito Santo	->  Jundiá	->  Lagoa d`Anta	->  Montanhas	->  Passa e Fica	->  Passagem	->  Pedro Velho	->  Santo Antônio	->  Serrinha	->  Várzea
+[ Olho-d`Água do Borges ]
+	->  Almino Afonso	->  Caraúbas	->  Frutuoso Gomes	->  Lucrécia	->  Martins	->  Messias Targino	->  Patu	->  Rafael Godeiro	->  Riacho da Cruz	->  Umarizal	->  Viçosa
+[ Ouro Branco ]
+	->  Jardim do Seridó	->  Santana do Seridó
+[ Paraná ]
+	->  José da Penha	->  Luís Gomes	->  Major Sales	->  Marcelino Vieira	->  Riacho de Santana	->  Tenente Ananias	->  Venha-Ver
+[ Paraú ]
+	->  Augusto Severo	->  São Rafael	->  Triunfo Potiguar	->  Upanema
+[ Parazinho ]
+	->  Pedra Grande	->  São Bento do Norte	->  São Miguel do Gostoso
+[ Parelhas ]
+	->  Carnaúba dos Dantas	->  Jardim do Seridó	->  Santana do Seridó
+[ Rio do Fogo ]
+	->  Touros
+[ Passa e Fica ]
+	->  Lagoa d`Anta	->  Monte das Gameleiras	->  Nova Cruz	->  Santo Antônio	->  São José do Campestre�	->  Serra de São Bento	->  Serrinha
+[ Passagem ]
+	->  Arês	->  Brejinho	->  Espírito Santo	->  Goianinha	->  Jundiá	->  Lagoa de Pedras	->  Lagoa Salgada	->  Montanhas	->  Monte Alegre	->  Nísia Floresta	->  Nova Cruz	->  Pedro Velho	->  Santo Antônio	->  São José de Mipibu	->  Serrinha	->  Várzea	->  Vera Cruz
+[ Patu ]
+	->  Almino Afonso	->  Frutuoso Gomes	->  João Dias	->  Lucrécia	->  Messias Targino	->  Olho-d`Água do Borges	->  Rafael Godeiro	->  Umarizal
+[ Santa Maria ]
+	->  Bento Fernandes	->  Bom Jesus	->  Ielmo Marinho	->  Lagoa de Velhos	->  Poço Branco	->  Riachuelo	->  Ruy Barbosa	->  São Paulo do Potengi	->  São Pedro	->  Senador Elói de Souza	->  Taipu
+[ Pau dos Ferros ]
+	->  Água Nova	->  Doutor Severiano	->  Encanto	->  Francisco Dantas	->  José da Penha	->  Marcelino Vieira	->  Pilões	->  Portalegre	->  Rafael Fernandes	->  Riacho de Santana	->  São Francisco do OesteQ�	->  Serrinha dos Pintos	->  Taboleiro Grande
+[ Pedra Grande ]
+	->  Caiçara do Norte	->  Parazinho	->  São Bento do Norte	->  São Miguel do Gostoso
+[ Pedra Preta ]
+	->  Caiçara do Rio do Vento	->  Jandaíra	->  Jardim de Angicos	->  Lajes
+[ Pedro Avelino ]
+	->  Afonso Bezerra	->  Fernando Pedroza	->  Lajes
+[ Pedro Velho ]
+	->  Arês	->  Baía Formosa	->  Canguaretama	->  Espírito Santo	->  Goianinha	->  Jundiá	->  Montanhas	->  Nova Cruz	->  Passagem	->  Várzea	->  Vila Fl
+[ Pendências ]
+	->  Alto do Rodrigues	->  Carnaubais	->  Macau	->  Porto do Mangue
+[ Pilões ]
+	->  Alexandria	->  Antônio Martins	->  Francisco Dantas	->  Frutuoso Gomes	->  José da Penha	->  Marcelino Vieira	->  Martins	->  Pau dos Ferros	->  Portalegre	->  Rafael Fernandes	->  Serrinha dos Pintos	->  Tenente Ananias
+[ Poço Branco ]
+	->  Bento Fernandes	->  Ceará-Mirim	->  Ielmo Marinho	->  João Câmara	->  Santa Maria	->  Pureza	->  Riachuelo	->  Taipu
+[ Portalegre ]
+	->  Antônio Martins	->  Francisco Dantas	->  Frutuoso Gomes	->  Itaú	->  Lucrécia	->  Martins	->  Pau dos Ferros	->  Pilões	->  Riacho da Cruz	->  São Francisco do Oeste}	->  Serrinha dos Pintos	->  Taboleiro Grande	->  Umarizal	->  Viçosa
+[ Porto do Mangue ]
+	->  Alto do Rodrigues	->  Macau	->  Pendências
+[ Presidente Juscelino ]
+	->  Bom Jesus	->  Januário Cicco	->  Lagoa de Velhos	->  Lagoa Salgada	->  São José do CampestreA{	->  São Paulo do Potengi	->  São Pedro	->  Senador Elói de Souza	->  Sítio Novo	->  Tangará
+[ Pureza ]
+	->  Ceará-Mirim	->  Poço Branco	->  Taipu
+[ Rafael Fernandes ]
+	->  Água Nova	->  Coronel João Pessoa	->  Doutor Severiano	->  Encanto	->  Francisco Dantas	->  José da Penha	->  Major Sales	->  Marcelino Vieira	->  Pau dos Ferros	->  Pilões	->  Riacho de Santana	->  São Francisco do Oeste�x
+[ Rafael Godeiro ]
+	->  Almino Afonso	->  Antônio Martins	->  Frutuoso Gomes	->  João Dias	->  Lucrécia	->  Martins	->  Messias Targino	->  Olho-d`Água do Borges	->  Patu	->  Serrinha dos Pintos	->  Umarizal	->  Viçosa
+[ Riacho da Cruz ]
+	->  Francisco Dantas	->  Frutuoso Gomes	->  Itaú	->  Lucrécia	->  Martins	->  Olho-d`Água do Borges	->  Portalegre	->  Rodolfo Fernandes	->  São Francisco do Oeste�u	->  Serrinha dos Pintos	->  Severiano Melo	->  Taboleiro Grande	->  Umarizal	->  Viçosa
+[ Riacho de Santana ]
+	->  Água Nova	->  Coronel João Pessoa	->  Doutor Severiano	->  Encanto	->  José da Penha	->  Luís Gomes	->  Major Sales	->  Marcelino Vieira	->  Paraná	->  Pau dos Ferros	->  Rafael Fernandes	->  São Miguel	->  Tenente Ananias	->  Venha-Ver
+[ Riachuelo ]
+	->  Barcelona	->  Bento Fernandes	->  Caiçara do Rio do Vento	->  Jardim de Angicos	->  Lagoa de Velhos	->  Santa Maria	->  Poço Branco	->  Ruy Barbosa	->  São Paulo do Potengi	->  São Pedro
+[ Rodolfo Fernandes ]
+	->  Itaú	->  Riacho da Cruz	->  São Francisco do Oeste1q	->  Severiano Melo	->  Taboleiro Grande	->  Viçosa
+[ Tibau ]
+	->  Areia Branca	->  Grossos
+[ Ruy Barbosa ]
+	->  Barcelona	->  Bento Fernandes	->  Caiçara do Rio do Vento	->  Jardim de Angicos	->  Lagoa de Velhos	->  Santa Maria	->  Riachuelo	->  São Paulo do Potengi	->  São Tomé	->  Sítio Novo
+[ Santa Cruz ]
+	->  Campo Redondo	->  Coronel Ezequiel	->  Lajes Pintadas	->  São Bento do Trairí	->  Sítio Novo	->  Tangará
+[ Santana do Matos ]
+	->  Bodó	->  Florânia	->  Lagoa Nova	->  Tenente Laurentino Cruz�m
+[ Santana do Seridó ]
+	->  Equador	->  Jardim do Seridó	->  Ouro Branco	->  Parelhas
+[ Santo Antônio ]
+	->  Brejinho	->  Espírito Santo	->  Januário Cicco	->  Jundiá	->  Lagoa d`Anta	->  Lagoa de Pedras	->  Lagoa Salgada	->  Nova Cruz	->  Passa e Fica	->  Passagem	->  São José do Campestreak	->  Serrinha	->  Várzea
+[ São Bento do Norte ]
+	->  Caiçara do Norte	->  Parazinho	->  Pedra Grande
+[ São Bento do Trairí ]
+	->  Campo Redondo	->  Coronel Ezequiel	->  Jaçanã	->  Japi	->  Lajes Pintadas	->  Santa Cruz
+[ São Fernando ]
+	->  Caicó	->  Jardim de Piranhas	->  Timbaúba dos Batistas
+[ São Francisco do Oeste!i ]
+	->  Encanto	->  Francisco Dantas	->  Itaú	->  Pau dos Ferros	->  Portalegre	->  Rafael Fernandes	->  Riacho da Cruz	->  Rodolfo Fernandes	->  Serrinha dos Pintos	->  Taboleiro Grande	->  Viçosa
+[ São Gonçalo do Amarante ]
+	->  Ceará-Mirim	->  Parnamirim	->  Extremoz	->  Ielmo Marinho	->  Macaíba	->  Natal
+[ São João do Sabugi ]
+	->  Ipueira	->  Serra Negra do Norte
+[ São José de Mipibu ]
+	->  Arês	->  Brejinho	->  Parnamirim	->  Goianinha	->  Jundiá	->  Lagoa de Pedras	->  Monte Alegre	->  Nísia Floresta	->  Passagem	->  Senador Georgino Avelino	->  Tibau do Sul	->  Vera Cruz
+[ São José do Campestre�d ]
+	->  Januário Cicco	->  Lagoa d`Anta	->  Monte das Gameleiras	->  Passa e Fica	->  Presidente Juscelino	->  Santo Antônio	->  Serra de São Bento	->  Serrinha	->  Tangará
+[ São José do Seridó ]
+	->  Acari	->  Caicó	->  Cruzeta	->  Jardim do Seridó
+[ São Miguel ]
+	->  Água Nova	->  Coronel João Pessoa	->  Doutor Severiano	->  Encanto	->  José da Penha	->  Luís Gomes	->  Riacho de Santana	->  Venha-Ver
+[ São Miguel do Gostoso ]
+	->  Parazinho	->  Pedra Grande	->  Touros
+[ São Paulo do Potengi ]
+	->  Barcelona	->  Bento Fernandes	->  Bom Jesus	->  Ielmo Marinho	->  Lagoa de Velhos	->  Santa Maria	->  Presidente Juscelino	->  Riachuelo	->  Ruy Barbosa	->  São Pedro	->  Senador Elói de Souza
+[ São Pedro ]
+	->  Bom Jesus	->  Ielmo Marinho	->  Santa Maria	->  Presidente Juscelino	->  Riachuelo	->  São Paulo do Potengi	->  Senador Elói de Souza
+[ São Rafael ]
+	->  Açu	->  Itajá	->  Paraú
+[ São Tomé ]
+	->  Barcelona	->  Caiçara do Rio do Vento	->  Lagoa de Velhos	->  Lajes Pintadas	->  Ruy Barbosa	->  Sítio Novo
+[ São Vicente ]
+	->  Acari	->  Cruzeta	->  Currais Novos	->  Florânia	->  Tenente Laurentino Cruz�\
+[ Senador Elói de Souza ]
+	->  Barcelona	->  Bom Jesus	->  Januário Cicco	->  Lagoa de Velhos	->  Lagoa Salgada	->  Santa Maria	->  Presidente Juscelino	->  São Paulo do Potengi	->  São Pedro	->  Sítio Novo	->  Tangará
+[ Senador Georgino Avelino ]
+	->  Arês	->  Baía Formosa	->  Brejinho	->  Canguaretama	->  Espírito Santo	->  Goianinha	->  Jundiá	->  Monte Alegre	->  Nísia Floresta	->  São José de Mipibu	->  Tibau do Sul	->  Vila Fl
+[ Serra de São Bento ]
+	->  Japi	->  Lagoa d`Anta	->  Monte das Gameleiras	->  Passa e Fica	->  São José do Campestre�X	->  Tangará
+[ Serra do Mel ]
+	->  Areia Branca	->  Grossos
+[ Serra Negra do Norte ]
+	->  São João do Sabugi	->  Timbaúba dos Batistas
+[ Serrinha ]
+	->  Brejinho	->  Espírito Santo	->  Januário Cicco	->  Jundiá	->  Lagoa d`Anta	->  Lagoa de Pedras	->  Lagoa Salgada	->  Nova Cruz	->  Passa e Fica	->  Passagem	->  Santo Antônio	->  São José do Campestre!V	->  Várzea	->  Vera Cruz
+[ Serrinha dos Pintos ]
+	->  Almino Afonso	->  Antônio Martins	->  Francisco Dantas	->  Frutuoso Gomes	->  João Dias	->  Lucrécia	->  Martins	->  Pau dos Ferros	->  Pilões	->  Portalegre	->  Rafael Godeiro	->  Riacho da Cruz	->  São Francisco do Oeste!T	->  Taboleiro Grande	->  Umarizal	->  Viçosa
+[ Severiano Melo ]
+	->  Apodi	->  Itaú	->  Riacho da Cruz	->  Rodolfo Fernandes	->  Taboleiro Grande	->  Viçosa
+[ Sítio Novo ]
+	->  Barcelona	->  Lagoa de Velhos	->  Lajes Pintadas	->  Presidente Juscelino	->  Ruy Barbosa	->  Santa Cruz	->  São Tomé	->  Senador Elói de Souza	->  Tangará
+[ Taboleiro Grande ]
+	->  Francisco Dantas	->  Itaú	->  Martins	->  Pau dos Ferros	->  Portalegre	->  Riacho da Cruz	->  Rodolfo Fernandes	->  São Francisco do Oeste�P	->  Serrinha dos Pintos	->  Severiano Melo	->  Umarizal	->  Viçosa
+[ Taipu ]
+	->  Bento Fernandes	->  Ceará-Mirim	->  Ielmo Marinho	->  João Câmara	->  Santa Maria	->  Poço Branco	->  Pureza
+[ Tangará ]
+	->  Januário Cicco	->  Lagoa de Velhos	->  Presidente Juscelino	->  Santa Cruz	->  São José do CampestreAN	->  Senador Elói de Souza	->  Serra de São Bento	->  Sítio Novo
+[ Tenente Ananias ]
+	->  Alexandria	->  José da Penha	->  Luís Gomes	->  Major Sales	->  Marcelino Vieira	->  Paraná	->  Pilões	->  Riacho de Santana
+[ Tenente Laurentino Cruz�L ]
+	->  Currais Novos	->  Florânia	->  Santana do Matos	->  São Vicente
+[ Tibau do Sul ]
+	->  Arês	->  Baía Formosa	->  Canguaretama	->  Goianinha	->  Nísia Floresta	->  São José de Mipibu	->  Senador Georgino Avelino	->  Vila Fl
+[ Timbaúba dos Batistas ]
+	->  Caicó	->  Jardim de Piranhas	->  São Fernando	->  Serra Negra do Norte
+[ Touros ]
+	->  Rio do Fogo	->  São Miguel do Gostoso
+[ Triunfo Potiguar ]
+	->  Augusto Severo	->  Jucurutu	->  Paraú	->  Upanema
+[ Umarizal ]
+	->  Almino Afonso	->  Antônio Martins	->  Frutuoso Gomes	->  Itaú	->  Lucrécia	->  Martins	->  Olho-d`Água do Borges	->  Patu	->  Portalegre	->  Rafael Godeiro	->  Riacho da Cruz	->  Serrinha dos Pintos	->  Taboleiro Grande	->  Viçosa
+[ Upanema ]
+	->  Augusto Severo	->  Paraú	->  Triunfo Potiguar
+[ Várzea ]
+	->  Brejinho	->  Espírito Santo	->  Goianinha	->  Jundiá	->  Lagoa d`Anta	->  Lagoa de Pedras	->  Lagoa Salgada	->  Montanhas	->  Nova Cruz	->  Passagem	->  Pedro Velho	->  Santo Antônio	->  Serrinha
+[ Venha-Ver ]
+	->  Água Nova	->  Coronel João Pessoa	->  José da Penha	->  Luís Gomes	->  Major Sales	->  Paraná	->  Riacho de Santana	->  São Miguel
+[ Vera Cruz ]
+	->  Bom Jesus	->  Brejinho	->  Parnamirim	->  Januário Cicco	->  Jundiá	->  Lagoa de Pedras	->  Lagoa Salgada	->  Macaíba	->  Monte Alegre	->  Nísia Floresta	->  Passagem	->  São José de Mipibu	->  Serrinha
+[ Viçosa ]
+	->  Almino Afonso	->  Antônio Martins	->  Francisco Dantas	->  Frutuoso Gomes	->  Itaú	->  Lucrécia	->  Martins	->  Olho-d`Água do Borges	->  Portalegre	->  Rafael Godeiro	->  Riacho da Cruz	->  Rodolfo Fernandes	->  São Francisco do Oeste�@	->  Serrinha dos Pintos	->  Severiano Melo	->  Taboleiro Grande	->  Umarizal
+[ Vila Fl ]
+	->  Arês	->  Baía Formosa	->  Canguaretama	->  Espírito Santo	->  Goianinha	->  Pedro Velho	->  Senador Georgino Avelino	->  Tibau do Sul

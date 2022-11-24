@@ -14,8 +14,7 @@ int main() {
     float D[] = {0.05, 0.1, 0.15, 0.20, 0.25, 0.8, 1, 1.5, 2};
 
     // mat é a variável que representa a matriz de adjacência do grafo
-    float **mat = criaVizinhos(Dados, D[5]);
-    
+    float **mat = criaVizinhos(Dados, D[4]);
     printf("\nQuestão 01:");
     printMat(mat);// Matriz de Adjacência de todas as cidades, questão 1.
     printf("\nQuestão 02:");
@@ -24,6 +23,6 @@ int main() {
     printSemVizinhos(mat,Dados);// Cidade sem vizinhos, questão 3.
     printf("\nQuestão 04:");
     printMaiorDistancia(Dados);// Maior distância, questão 4.
-
+    // imprimirParaArquivo(mat,Dados); // Encontrados muitos impasses, por conta das strings com bytes estranhos e afins.
     return 0;
 }
