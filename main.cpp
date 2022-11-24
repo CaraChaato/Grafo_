@@ -11,11 +11,11 @@ int main() {
     Cidade *Dados = getCidades(arquivo);
 
     // D é um vetor que armazena as variações de distância
-    float D[] = {0.05, 0.1, 0.15, 0.20, 0.25, 1, 1.5, 2};
+    float D[] = {0.05, 0.1, 0.15, 0.20, 0.25, 0.8, 1, 1.5, 2};
 
     // mat é a variável que representa a matriz de adjacência do grafo
-    float **mat = criaVizinhos(Dados, D[4]);
-
+    float **mat = criaVizinhos(Dados, D[5]);
+    
     printf("\nQuestão 01:");
     printMat(mat);// Matriz de Adjacência de todas as cidades, questão 1.
     printf("\nQuestão 02:");

@@ -10,6 +10,13 @@
 // Variável que limita o tamanho da matriz de adjacência do grafo
 #define SIZE 16
 
+// Declaração das funções do código
+float **criaVizinhos (Cidade *c, float d);
+void printMaisVizinhos(float **G, Cidade *c);
+void printMaiorDistancia(Cidade *c);
+int printSemVizinhos(float **G, Cidade *c);
+void printMat(float **mat);
+
 /**
  * Função que cria a matriz de adjacência do Grafo
  * @param c
@@ -50,16 +57,13 @@ float **criaVizinhos (Cidade *c, float d){
                         mat[i][j] = dif;
                         mat[j][i] = dif;
                     }
-
                 else {
                     // Caso as cidades n sejam vizinhas
                     mat[i][j] = -1;
                     mat[j][i] = -1;
                 }
-
             }
         }
-    
     }
     return mat;
 }
@@ -92,7 +96,7 @@ void printMaisVizinhos(float **G, Cidade *c){
  * Imprime a maior distância para que todas as cidades sejam vizinhas
  * @param c
 */
-void printMaiorDistancia(Cidade *c) {
+void printMaiorDistancia(Cidade *c){
     // Variáveis Auxiliares
     float dif, maior = 0;
     for (int i = 0; i < SIZE; i++) {
@@ -108,8 +112,10 @@ void printMaiorDistancia(Cidade *c) {
     printf("\nA maior diferença é %.2f\n", maior);
 }
 
+/**
+ * Imprime as cidades que não possuem vizinhos
+*/
 int printSemVizinhos(float **G, Cidade *c){
-
     size_t tmp = 0, i, y;
 
     for (i = 0; i < SIZE; i++) { // Linhas da matriz
@@ -122,9 +128,10 @@ int printSemVizinhos(float **G, Cidade *c){
             tmp=1;
             break;
         }
-    if (tmp==0){
-        printf("\nCidade sem vizinho encontrada: %s", c[i].cidade);
-    }
+        if (tmp==0){
+            printf("\nCidade sem vizinho encontrada: %s", c[i].cidade);
+            
+        }
     }
     
     return 0;
@@ -132,6 +139,9 @@ int printSemVizinhos(float **G, Cidade *c){
     // Por fim, dita qual foi a cidade com maior quantidade de vizinhaças de acordo com o Cidade *c passado
 }
 
+/**
+ * Imprime a matriz de incidência
+*/
 void printMat(float **mat){
     for (int i = 0; i < SIZE; i++) {
         printf("\n ");

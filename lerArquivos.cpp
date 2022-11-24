@@ -10,12 +10,16 @@
 // Variável auxiliar para a leitura do arquivo
 #define MAX 167
 
+// Declarando as funções
+Cidade *getCidades(char *arquivo);
+void printCidades(Cidade *dado);
+
 /**
  * @brief Lê o arquivo passado como parametro e retorna uma estrutura Cidade
  * @param arquivo 
  * @return cidade* 
  */
-Cidade *getCidades(char *arquivo) {
+Cidade *getCidades(char *arquivo){
 
     // Abre o arquivo
     FILE *f = fopen(arquivo, "r");
